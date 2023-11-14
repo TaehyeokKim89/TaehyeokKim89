@@ -1,4 +1,4 @@
-![TaehyeokKim89's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight)
+![TaehyeokKim89's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaehyeokKim89&show_icons=true&theme=tokyonight)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaehyeokKim89&layout=Demo&theme=tokyonight)-->
 
 <!--
